@@ -8,11 +8,18 @@ Creates a list and visualization of jiu jitsu gyms and their coordinates in the 
 
 
 
+
+
 | Population Minimum | Number of Cities | Number of Zip Codes | Cost
 |--------------------|------------------|---------------------| -------
-| 150,000            | 438              | 7479                | $176
+| 150,000            | 438              | 7479                | $176.00
+| 200,000            | 218              | 6197                | $150.00
 | 300,000            | 132              | 5392                | $123.20
 | 450,000            | 96               | 4650                | $110.00
 | 600,000            | 77               | 4251                | $94.00
 | 750,000            | 62               | 3806                | $85.00
 | 1,000,000          | 49               | 3341                | $75.00
+
+
+
+Google maps provides a $200 monthly credit - I will go with the 200k population minimum. 
